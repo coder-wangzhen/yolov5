@@ -6,4 +6,4 @@ test:  # test images (optional)
 
 # Classes
 nc: 2  # number of classes
-names: ['nomask', 'mask']  # class names
+names: ['mask', 'nomask']  # class names
